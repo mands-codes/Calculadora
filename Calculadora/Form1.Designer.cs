@@ -57,7 +57,7 @@ namespace Calculadora
             // 
             // buttonRaizQuadrada
             // 
-            this.buttonRaizQuadrada.BackColor = System.Drawing.Color.White;
+            this.buttonRaizQuadrada.BackColor = System.Drawing.Color.LightCoral;
             this.buttonRaizQuadrada.FlatAppearance.BorderSize = 0;
             this.buttonRaizQuadrada.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonRaizQuadrada.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -374,7 +374,7 @@ namespace Calculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Gray;
+            this.BackColor = System.Drawing.Color.DarkGray;
             this.ClientSize = new System.Drawing.Size(207, 316);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.buttonRaizQuadrada);
